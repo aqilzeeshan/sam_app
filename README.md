@@ -1,5 +1,5 @@
-Shows how to use npm module not available to Lambda
-Used //https://acloudguru.com/blog/engineering/packaging-aws-lambda-functions-as-container-images to do it.
+- Shows how to use npm module not available to Lambda
+- Used //https://acloudguru.com/blog/engineering/packaging-aws-lambda-functions-as-container-images to do it.
 
 # sam-app
 
